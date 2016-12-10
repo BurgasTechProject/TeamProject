@@ -1,4 +1,4 @@
-probvame s tekst
+﻿probvame s tekst
 dobavka purva
 dobavka2
 dobavka3
@@ -6,3 +6,4 @@ dobavka4
 dobavka ot Valeri
 dobavka5-niki
 Ďđîě˙í˙ 6- Това беше на кирилица
+Promqna 7
